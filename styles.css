@@ -9,3 +9,26 @@ main {
     background-color: white;
     outline: none;
 }
+header {
+    background-color: white;
+    margin: 0%;
+}
+nav{
+    float: inline-end;
+}
+
+img {
+    float: left;
+}
+
+
+footer img {
+    max-width: 5%;
+    max-height: 5%;
+    padding: 3pt;
+    float: ;
+    
+}
+
+
+
