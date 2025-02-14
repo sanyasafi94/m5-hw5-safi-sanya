@@ -10,19 +10,40 @@ body {
 
 header{
     background: white;
-    padding: 40px 0;
-    border-bottom: 2px solid pink;
+    padding: 4% 0;
+    border-bottom: 2px solid navy;
+    margin-top: 0px;
+    
 }
 
 .container {
-    max-width: 900px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
 h1{
     float: left;
-    color: navy;
+    color: white;
     font-family: sans-serif;
+    background-color: navy;
+    padding: 8px;
+    margin-top: 0%;
+}
+
+
+h2 {
+    margin-bottom: 15px;
+    font-family: sans-serif;
+    color: navy;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid navy;
+    margin: 1em 0;
+    padding: 0;
 }
 
 p {
@@ -31,7 +52,7 @@ p {
 }
 
 nav {
-    float: right;
+    float: inline-end;
 }
 
 nav a {
@@ -43,15 +64,15 @@ nav a {
 }
 
 main {
-    background-color: white;
+    background-color: rgb(249, 246, 248);
     float: left;
-    width: 70%;
+    width: 65%;
     padding: 20px;
     
 }
 
 aside {
-    background-color: white;
+    background-color: rgb(249, 246, 248);
     float: right;
     width: 20%;
     padding: 20px;
@@ -60,7 +81,7 @@ aside {
 
 aside img {
     box-shadow: 3px 3px 3px darkgrey;
-    width: 45px;
+    width: 40px;
     margin-right: 9px;
 }
 
