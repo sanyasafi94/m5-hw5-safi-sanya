@@ -9,9 +9,9 @@ body {
 }
 
 header{
-    background: white;
+    background-color: rgb(249, 246, 248);
     padding: 4% 0;
-    border-bottom: 2px solid navy;
+    border-bottom: 1px solid navy;
     margin-top: 0px;
     
 }
@@ -23,7 +23,7 @@ header{
 
 h1{
     float: left;
-    color: white;
+    color: rgb(249, 246, 248);
     font-family: sans-serif;
     background-color: navy;
     padding: 8px;
@@ -35,6 +35,7 @@ h2 {
     margin-bottom: 15px;
     font-family: sans-serif;
     color: navy;
+    font-size: 30px;
 }
 
 hr {
